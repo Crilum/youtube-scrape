@@ -1,5 +1,8 @@
+
 # YouTube Scrape
 A YouTube search scraping API
+
+### Don't use this, use [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape)
 
 ## Get search results
 The base url to get search results, is as follows:<br>
